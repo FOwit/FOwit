@@ -8,3 +8,4 @@ lived and visited
 -Calgary
 -Saint Petersburg
 -Newcastel- upon -tyne
+-Stockholm
